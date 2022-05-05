@@ -3,74 +3,74 @@
         {
             "countryName": "Korea",
             "countryDescription":"South Korea is a country in Eastern Asia occupying the southern half of the Korean Peninsula. It borders the Sea of Japan, the Yellow Sea, and North Korea. South Korea's terrain is mostly mountainous.",
-            "countryLanguage":"Korean",
-            "countryCurrency":"Won ₩",
-            "countryPopulation":"51.78 million",
-            "countryDistance":"6,563 miles",
+            "countryLanguage":"Language: Korean",
+            "countryCurrency":"Currency: Won ₩",
+            "countryPopulation":"Population: 51.78 million",
+            "countryDistance":"Distance from USA: 6,563 miles",
             "countryID":"1",
             "countryImage":"https://github.com/upnk0715/Project2IT315/blob/main/Korea.jpeg?raw=true",
             "countryWebsite":"https://www.tripadvisor.com/Tourism-g294196-South_Korea-Vacations.html",
-            "countryLocation":"Asia"
+            "countryLocation":"Location: Asia"
         },
         {
             "countryName": "Japan",
             "countryDescription":"Japan is an archipelago, or string of islands, on the eastern edge of Asia. There are four main islands: Hokkaido, Honshu, Shikoku, and Kyushu. There are also nearly 4,000 smaller islands! ",
-            "countryLanguage":"Japanese",
-            "countryCurrency":"Yen ¥",
-            "countryPopulation":"125.8 million",
-            "countryDistance":"6,321 miles",
+            "countryLanguage":"Language: Japanese",
+            "countryCurrency":"Currency: Yen ¥",
+            "countryPopulation":"Population: 125.8 million",
+            "countryDistance":"Distance from USA: 6,321 miles",
             "countryID":"2",
             "countryImage":"https://github.com/upnk0715/Project2IT315/blob/main/Japan.jpeg?raw=true",
             "countryWebsite":"https://www.tripadvisor.com/Tourism-g294232-Japan-Vacations.html",
-            "countryLocation":"Asia"
+            "countryLocation":"Location: Asia"
         },  
         {
             "countryName": "France",
             "countryDescription":"France, the largest country in Western Europe, has long been a gateway between the continent's northern and southern regions.",
-            "countryLanguage":"French",
-            "countryCurrency":"Euro €",
-            "countryPopulation":"67.39 million",
-            "countryDistance":"4,775 miles",
+            "countryLanguage":"Language: French",
+            "countryCurrency":"Currency: Euro €",
+            "countryPopulation":"Population: 67.39 million",
+            "countryDistance":"Distance from USA: 4,775 miles",
             "countryID":"3",
             "countryImage":"https://github.com/upnk0715/Project2IT315/blob/main/Mexico.jpeg?raw=true",
             "countryWebsite":"https://www.tripadvisor.com/Tourism-g187070-France-Vacations.html",
-            "countryLocation":"Europe"
+            "countryLocation":"Location: Europe"
         },  
         {
             "countryName": "United Kingdom",
             "countryDescription":"The United Kingdom is a state made up of the historic countries of England, Wales and Scotland, as well as Northern Ireland. It is known as the home of both modern parliamentary democracy and the Industrial Revolution.",
-            "countryLanguage":"English",
-            "countryCurrency":"Pound £",
-            "countryPopulation":"67.22 million",
-            "countryDistance":"4,255 miles",
+            "countryLanguage":"Language: English",
+            "countryCurrency":"Currency: Pound £",
+            "countryPopulation":"Population: 67.22 million",
+            "countryDistance":"Distance from USA: 4,255 miles",
             "countryID":"4",
             "countryImage":"https://github.com/upnk0715/Project2IT315/blob/main/UK.jpeg?raw=true",
             "countryWebsite":"https://www.tripadvisor.com/Tourism-g186216-United_Kingdom-Vacations.html",
-            "countryLocation":"Europe"
+            "countryLocation":"Location: Europe"
         },
         {
             "countryName": "Mexico",
             "countryDescription":"Mexico is a land of extremes, with high mountains and deep canyons in the center of the country, sweeping deserts in the north, and dense rain forests in the south and east.",
-            "countryLanguage":"Spanish",
-            "countryCurrency":"Peso ¢",
-            "countryPopulation":"128.9 million",
-            "countryDistance":"1,012 miles",
+            "countryLanguage":"Language: Spanish",
+            "countryCurrency":"Currency: Peso ¢",
+            "countryPopulation":"Population: 128.9 million",
+            "countryDistance":"Distance from USA: 1,012 miles",
             "countryID":"5",
             "countryImage":"",
             "countryWebsite":"https://www.tripadvisor.com/Tourism-g150768-Mexico-Vacations.html",
-            "countryLocation":"North America"
+            "countryLocation":"Location: North America"
         },
         {
             "countryName": "Egypt",
             "countryDescription":"Egypt is located mostly in the northern part of the African Continent with part of its Sinai desert located in the Asian Continent. It has a total area of 1,002,450 square km making it the 31st largest country in the world;",
-            "countryLanguage":"Arabic",
-            "countryCurrency":"Egyptian Pound E£",
-            "countryPopulation":"102.3 million",
-            "countryDistance":"6,833 miles",
+            "countryLanguage":"Language: Arabic",
+            "countryCurrency":"Currency: Egyptian Pound E£",
+            "countryPopulation":"Population: 102.3 million",
+            "countryDistance":"Distance from USA: 6,833 miles",
             "countryID":"6",
             "countryImage":"https://github.com/upnk0715/Project2IT315/blob/main/Egypt.jpeg?raw=true",
             "countryWebsite":"https://www.tripadvisor.com/Tourism-g294200-Egypt-Vacations.html",
-            "countryLocation":"Africa"
+            "countryLocation":"Location: Africa"
         }
 
     ],
